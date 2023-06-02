@@ -1,0 +1,52 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    padding-left: 66px;
+    padding-right: 66px;
+    width: 100%;
+    height: 80px;
+    background-color: #222324;
+    opacity: 90%;
+    position: fixed;
+
+}
+
+.films {
+    font-size: 45px;
+    color: white;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+.inputName {
+    width: 300px;
+    background-color: #222324;
+    border: none;
+    color: white;
+    font-size: 18px;
+    padding-left: 10px;
+    outline: none;
+   
+}
+.serch {
+    width: 50px;
+}
+
+form {
+    border: 1px solid white;
+    width: 350px;
+    height: 40px;
+    margin-top: 14px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.back {
+    color: white;
+    font-size: 50px;
+}
+.back:hover {
+    color: #5DB9E5;
+    cursor: pointer;
+}

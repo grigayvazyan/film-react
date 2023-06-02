@@ -1,0 +1,16 @@
+.general {
+    margin-top: 50px;
+    background-color: white;
+
+}
+.film {
+    font-size: 30px;
+    color: #5DB9E5;
+    padding: 10px;
+}
+
+.finish {
+    color: #E4E4E5;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
